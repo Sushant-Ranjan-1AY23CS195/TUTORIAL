@@ -1,5 +1,3 @@
  my name is sushant ranjan 
  this is for the practice for git internal 
-my usn is 1AY23CS195
-new branch added called feature-branch
-new thing we have too stash 
+ new things added 
